@@ -113,7 +113,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs queryString="tab-number">
-<TabItem value="1" label="Tab One">
+<TabItem value="1" label="JavaScript SDK">
 
 ### Heading in Tab One \{#some-heading-in-tab-one}
 
@@ -127,7 +127,7 @@ Detail text tab 1.
 </details>
 
 </TabItem>
-<TabItem value="2" label="Tab Two">
+<TabItem value="2" label="Browser SDK">
 
 ### Heading in Tab Two \{#some-heading-in-tab-two}
 
